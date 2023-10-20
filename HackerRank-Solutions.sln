@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "30 Days of Code", "30 Days of Code", "{C39521A0-B135-46AF-B031-90FC908F4FDE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day0 - Hello, World", "30 Days of Code\Day0 - Hello, World\Day0 - Hello, World.csproj", "{4BFCA85B-C3CC-45A8-97BE-B79AFDBBE6CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BFCA85B-C3CC-45A8-97BE-B79AFDBBE6CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BFCA85B-C3CC-45A8-97BE-B79AFDBBE6CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BFCA85B-C3CC-45A8-97BE-B79AFDBBE6CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BFCA85B-C3CC-45A8-97BE-B79AFDBBE6CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4BFCA85B-C3CC-45A8-97BE-B79AFDBBE6CF} = {C39521A0-B135-46AF-B031-90FC908F4FDE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B58B3A9-5C06-4625-85EF-014833E6D6B1}
+	EndGlobalSection
+EndGlobal
