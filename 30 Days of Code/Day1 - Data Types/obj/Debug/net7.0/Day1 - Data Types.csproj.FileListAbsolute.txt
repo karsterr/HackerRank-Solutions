@@ -1,0 +1,14 @@
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day1 - Data Types\bin\Debug\net7.0\Day1 - Data Types.exe
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day1 - Data Types\bin\Debug\net7.0\Day1 - Data Types.deps.json
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day1 - Data Types\bin\Debug\net7.0\Day1 - Data Types.runtimeconfig.json
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day1 - Data Types\bin\Debug\net7.0\Day1 - Data Types.dll
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day1 - Data Types\bin\Debug\net7.0\Day1 - Data Types.pdb
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day1 - Data Types\obj\Debug\net7.0\Day1 - Data Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day1 - Data Types\obj\Debug\net7.0\Day1 - Data Types.AssemblyInfoInputs.cache
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day1 - Data Types\obj\Debug\net7.0\Day1 - Data Types.AssemblyInfo.cs
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day1 - Data Types\obj\Debug\net7.0\Day1 - Data Types.csproj.CoreCompileInputs.cache
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day1 - Data Types\obj\Debug\net7.0\Day1 - Data Types.dll
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day1 - Data Types\obj\Debug\net7.0\refint\Day1 - Data Types.dll
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day1 - Data Types\obj\Debug\net7.0\Day1 - Data Types.pdb
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day1 - Data Types\obj\Debug\net7.0\Day1 - Data Types.genruntimeconfig.cache
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day1 - Data Types\obj\Debug\net7.0\ref\Day1 - Data Types.dll
