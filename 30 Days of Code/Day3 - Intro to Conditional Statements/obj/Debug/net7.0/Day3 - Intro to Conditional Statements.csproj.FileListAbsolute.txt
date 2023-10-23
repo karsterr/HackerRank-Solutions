@@ -1,0 +1,14 @@
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day3 - Intro to Conditional Statements\bin\Debug\net7.0\Day3 - Intro to Conditional Statements.exe
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day3 - Intro to Conditional Statements\bin\Debug\net7.0\Day3 - Intro to Conditional Statements.deps.json
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day3 - Intro to Conditional Statements\bin\Debug\net7.0\Day3 - Intro to Conditional Statements.runtimeconfig.json
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day3 - Intro to Conditional Statements\bin\Debug\net7.0\Day3 - Intro to Conditional Statements.dll
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day3 - Intro to Conditional Statements\bin\Debug\net7.0\Day3 - Intro to Conditional Statements.pdb
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day3 - Intro to Conditional Statements\obj\Debug\net7.0\Day3 - Intro to Conditional Statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day3 - Intro to Conditional Statements\obj\Debug\net7.0\Day3 - Intro to Conditional Statements.AssemblyInfoInputs.cache
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day3 - Intro to Conditional Statements\obj\Debug\net7.0\Day3 - Intro to Conditional Statements.AssemblyInfo.cs
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day3 - Intro to Conditional Statements\obj\Debug\net7.0\Day3 - Intro to Conditional Statements.csproj.CoreCompileInputs.cache
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day3 - Intro to Conditional Statements\obj\Debug\net7.0\Day3 - Intro to Conditional Statements.dll
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day3 - Intro to Conditional Statements\obj\Debug\net7.0\refint\Day3 - Intro to Conditional Statements.dll
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day3 - Intro to Conditional Statements\obj\Debug\net7.0\Day3 - Intro to Conditional Statements.pdb
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day3 - Intro to Conditional Statements\obj\Debug\net7.0\Day3 - Intro to Conditional Statements.genruntimeconfig.cache
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day3 - Intro to Conditional Statements\obj\Debug\net7.0\ref\Day3 - Intro to Conditional Statements.dll
