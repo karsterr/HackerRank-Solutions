@@ -1,0 +1,14 @@
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day2 - Operators\bin\Debug\net7.0\Day2 - Operators.exe
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day2 - Operators\bin\Debug\net7.0\Day2 - Operators.deps.json
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day2 - Operators\bin\Debug\net7.0\Day2 - Operators.runtimeconfig.json
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day2 - Operators\bin\Debug\net7.0\Day2 - Operators.dll
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day2 - Operators\bin\Debug\net7.0\Day2 - Operators.pdb
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day2 - Operators\obj\Debug\net7.0\Day2 - Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day2 - Operators\obj\Debug\net7.0\Day2 - Operators.AssemblyInfoInputs.cache
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day2 - Operators\obj\Debug\net7.0\Day2 - Operators.AssemblyInfo.cs
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day2 - Operators\obj\Debug\net7.0\Day2 - Operators.csproj.CoreCompileInputs.cache
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day2 - Operators\obj\Debug\net7.0\Day2 - Operators.dll
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day2 - Operators\obj\Debug\net7.0\refint\Day2 - Operators.dll
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day2 - Operators\obj\Debug\net7.0\Day2 - Operators.pdb
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day2 - Operators\obj\Debug\net7.0\Day2 - Operators.genruntimeconfig.cache
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day2 - Operators\obj\Debug\net7.0\ref\Day2 - Operators.dll
