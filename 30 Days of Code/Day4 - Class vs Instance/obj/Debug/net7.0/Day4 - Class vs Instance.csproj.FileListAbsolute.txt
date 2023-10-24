@@ -1,0 +1,14 @@
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day4 - Class vs Instance\bin\Debug\net7.0\Day4 - Class vs Instance.exe
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day4 - Class vs Instance\bin\Debug\net7.0\Day4 - Class vs Instance.deps.json
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day4 - Class vs Instance\bin\Debug\net7.0\Day4 - Class vs Instance.runtimeconfig.json
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day4 - Class vs Instance\bin\Debug\net7.0\Day4 - Class vs Instance.dll
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day4 - Class vs Instance\bin\Debug\net7.0\Day4 - Class vs Instance.pdb
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day4 - Class vs Instance\obj\Debug\net7.0\Day4 - Class vs Instance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day4 - Class vs Instance\obj\Debug\net7.0\Day4 - Class vs Instance.AssemblyInfoInputs.cache
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day4 - Class vs Instance\obj\Debug\net7.0\Day4 - Class vs Instance.AssemblyInfo.cs
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day4 - Class vs Instance\obj\Debug\net7.0\Day4 - Class vs Instance.csproj.CoreCompileInputs.cache
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day4 - Class vs Instance\obj\Debug\net7.0\Day4 - Class vs Instance.dll
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day4 - Class vs Instance\obj\Debug\net7.0\refint\Day4 - Class vs Instance.dll
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day4 - Class vs Instance\obj\Debug\net7.0\Day4 - Class vs Instance.pdb
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day4 - Class vs Instance\obj\Debug\net7.0\Day4 - Class vs Instance.genruntimeconfig.cache
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day4 - Class vs Instance\obj\Debug\net7.0\ref\Day4 - Class vs Instance.dll
