@@ -1,0 +1,14 @@
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day6 - Lets Review\bin\Debug\net7.0\Day6 - Lets Review.exe
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day6 - Lets Review\bin\Debug\net7.0\Day6 - Lets Review.deps.json
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day6 - Lets Review\bin\Debug\net7.0\Day6 - Lets Review.runtimeconfig.json
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day6 - Lets Review\bin\Debug\net7.0\Day6 - Lets Review.dll
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day6 - Lets Review\bin\Debug\net7.0\Day6 - Lets Review.pdb
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day6 - Lets Review\obj\Debug\net7.0\Day6 - Lets Review.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day6 - Lets Review\obj\Debug\net7.0\Day6 - Lets Review.AssemblyInfoInputs.cache
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day6 - Lets Review\obj\Debug\net7.0\Day6 - Lets Review.AssemblyInfo.cs
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day6 - Lets Review\obj\Debug\net7.0\Day6 - Lets Review.csproj.CoreCompileInputs.cache
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day6 - Lets Review\obj\Debug\net7.0\Day6 - Lets Review.dll
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day6 - Lets Review\obj\Debug\net7.0\refint\Day6 - Lets Review.dll
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day6 - Lets Review\obj\Debug\net7.0\Day6 - Lets Review.pdb
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day6 - Lets Review\obj\Debug\net7.0\Day6 - Lets Review.genruntimeconfig.cache
+C:\Users\KARSTERR\Programming\HackerRank-Solutions\30 Days of Code\Day6 - Lets Review\obj\Debug\net7.0\ref\Day6 - Lets Review.dll
