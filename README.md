@@ -1,2 +1,2 @@
 # HackerRank-Solutions
-HackerRank solutions with C/C++
+HackerRank solutions with Python
